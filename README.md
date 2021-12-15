@@ -4,6 +4,7 @@ collection of notebooks we used to conduct our experiments and design our prunin
 
 ## Notebooks
 
+Links to colab notebooks are linked below:
 #### [Balloon Detection Shared](https://colab.research.google.com/drive/1g2YEsxob73KmQKynRv48tHixeT7SPH3E?usp=sharing)
 
 - this notebook is used to show the detection of balloons from our Mask R-CNN model
